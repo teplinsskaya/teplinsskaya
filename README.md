@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/[ВашUsername]/[ВашUsername]/main/Make_your_README-3.png" alt="Banner: Hi! I'm Lisa. ITMO University student | AI Engineering" width="100%">
+  <img src="[https://raw.githubusercontent.com/teplinsskaya/teplinsskaya/main/banner.png](https://github.com/teplinsskaya/teplinsskaya/blob/main/banner.png?raw=true)" alt="Banner: Hi! I'm Lisa. ITMO University student | AI Engineering" width="100%">
 </div>
 
 <h2 align="center">Студентка Университета ИТМО | Инженер по искусственному интеллекту</h2>
@@ -38,29 +38,29 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ВашUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВашUsername]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teplinsskaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplinsskaya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css"/>
 
 </div>
 
 <div align="center">
   
 <!-- GitHub Streak Stats - анимированная статистика коммитов -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[ВашUsername]&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teplinsskaya&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
 <!-- Activity Graph - граф активности -->
-[![Lisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[ВашUsername]&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teplinsskaya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
   
 <!-- GitHub Profile Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=[ВашUsername]&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teplinsskaya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -76,9 +76,9 @@
   
 <!-- Snake eating contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ВашUsername]/[ВашUsername]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ВашUsername]/[ВашUsername]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[ВашUsername]/[ВашUsername]/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teplinsskaya/teplinsskaya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teplinsskaya/teplinsskaya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/teplinsskaya/teplinsskaya/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -101,21 +101,21 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://t.me/[ВашTelegramUsername]">
+      <a href="https://t.me/teplinsskaya">
         <img src="https://img.icons8.com/?size=100&id=LTvptsXhcJki&format=png&color=000000" width="40" alt="Telegram">
         <br>
         <strong>Telegram</strong>
       </a>
     </td>
     <td align="center">
-      <a href="mailto:[ВашEmail]">
+      <a href="mailto:lizatepliza@icloud.com">
         <img src="https://img.icons8.com/?size=100&id=5lr6xIUAwiha&format=png&color=000000" width="40" alt="Email">
         <br>
         <strong>Email</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/[ВашUsername]">
+      <a href="https://github.com/teplinsskaya">
         <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="40" alt="GitHub">
         <br>
         <strong>GitHub</strong>
@@ -124,13 +124,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://t.me/[ВашTelegramUsername]">Написать</a>
+      <a href="https://t.me/teplinsskaya">Написать</a>
     </td>
     <td align="center">
-      <a href="mailto:[ВашEmail]">Отправить email</a>
+      <a href="mailto:lizatepliza@icloud.com">Отправить email</a>
     </td>
     <td align="center">
-      <a href="https://github.com/[ВашUsername]">Перейти</a>
+      <a href="https://github.com/teplinsskaya">Перейти</a>
     </td>
   </tr>
 </table>
@@ -141,7 +141,7 @@
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/[ВашUsername]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/teplinsskaya/count.svg)
 
 </div>
 
