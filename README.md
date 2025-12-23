@@ -29,9 +29,9 @@
 ### Tech Stack
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" alt="Python" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" alt="C" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png&color=000000" alt="VS Code" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=000000" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=Z6gkX5O9PUU4&format=png&color=000000" alt="VS Code" width="60" height="60"/>
 </p>
 
 </div>
@@ -43,23 +43,6 @@
 ### Activity Graph
 
 [![Lisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teplinsskaya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teplinsskaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplinsskaya&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=teplinsskaya&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
 
 </div>
 
