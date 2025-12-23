@@ -12,34 +12,7 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=gray&color=gray" alt="Python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=gray&color=gray" alt="C"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=gray&color=gray" alt="VS Code"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teplinsskaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplinsskaya&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=teplinsskaya&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-###  Contribution Snake
+### 🔥 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teplinsskaya/teplinsskaya/output/github-contribution-grid-snake-dark.svg">
@@ -53,9 +26,26 @@
 
 <div align="center">
 
-###  Contact
+### Tech Stack
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/teplinsskaya)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizatepliza@icloud.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,vscode&theme=dark" alt="Tech Stack" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### Contact
+
+<a href="https://t.me/teplinsskaya">
+  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" alt="Telegram" width="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:lizatepliza@icloud.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="50"/>
+</a>
 
 </div>
