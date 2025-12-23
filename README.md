@@ -26,10 +26,12 @@
 
 <div align="center">
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" alt="C" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png&color=000000" alt="VS Code" width="60" height="60"/>
 </p>
 
 </div>
@@ -38,14 +40,31 @@
 
 <div align="center">
 
-### Contact
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teplinsskaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplinsskaya&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teplinsskaya&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Contact
 
 <a href="https://t.me/teplinsskaya">
-  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" alt="Telegram" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=LTvptsXhcJki&format=png&color=000000" alt="Telegram" width="50" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:lizatepliza@icloud.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=5lr6xIUAwiha&format=png&color=000000" alt="Email" width="50" height="50"/>
 </a>
 
 </div>
