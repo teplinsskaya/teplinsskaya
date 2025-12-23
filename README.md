@@ -29,9 +29,9 @@
 ### Tech Stack
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="60" height="60"/>
-  <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=000000" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=121461&format=png&color=000000" alt="C" width="60" height="60"/>
   <img src="https://img.icons8.com/?size=100&id=Z6gkX5O9PUU4&format=png&color=000000" alt="VS Code" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=2MHtG1k2H9Pn&format=png&color=000000" alt="Python" width="60" height="60"/>
 </p>
 
 </div>
