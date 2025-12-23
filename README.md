@@ -9,6 +9,12 @@
   В своих проектах я совмещаю теоретические знания с практической реализацией, стремясь создавать эффективные и инновационные решения.
 </p>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Python+Developer;AI+Researcher)](https://git.io/typing-svg)
+  
+</div>
+
 ---
 
 ### 🛠️ Технологический стек
@@ -23,23 +29,59 @@
 - **Машинное обучение & Data Science:** Python (Pandas, NumPy, Scikit-learn), Jupyter, Matplotlib/Seaborn
 - **Глубокое обучение:** PyTorch, TensorFlow, OpenCV
 - **Разработка и инфраструктура:** Git, Docker, SQL (PostgreSQL/MySQL), Linux
-- **Дополнительно:** [Заполнить, например: C++, Java, FastAPI, etc.]
+- **Дополнительно:** REST API, FastAPI, Streamlit
 
 ---
 
 ### 📊 Активность на GitHub
 
 <div align="center">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ВашUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВашUsername]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css"/>
+
+</div>
+
+<div align="center">
   
-<!-- Статистика - замените username -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ВашUsername]&show_icons=true&theme=radical&hide_title=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ВашUsername]&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Streak Stats - анимированная статистика коммитов -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[ВашUsername]&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+<!-- Activity Graph - граф активности -->
+[![Lisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[ВашUsername]&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+  
+<!-- GitHub Profile Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=[ВашUsername]&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <p align="center">
   <i>Здесь я выкладываю учебные проекты, исследования в области AI и практические работы.</i>
 </p>
+
+---
+
+### 🔥 Contribution Snake
+
+<div align="center">
+  
+<!-- Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ВашUsername]/[ВашUsername]/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ВашUsername]/[ВашUsername]/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[ВашUsername]/[ВашUsername]/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -56,7 +98,6 @@
 
 <div align="center">
   
-<!-- Замените ссылки и текст -->
 <table>
   <tr>
     <td align="center">
@@ -97,6 +138,12 @@
 </div>
 
 ---
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/[ВашUsername]/count.svg)
+
+</div>
 
 <p align="center">
   <i>Открыта к обсуждению проектов, исследовательскому сотрудничеству и новым возможностям!</i>
