@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Lisa;ITMO;Saint-Petersburg)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Saint-Petersburg)](https://git.io/typing-svg)
   
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🔥 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teplinsskaya/teplinsskaya/output/github-contribution-grid-snake-dark.svg">
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" alt="Python" width="60" height="60"/>
@@ -40,7 +40,17 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### Activity Graph
+
+[![Lisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teplinsskaya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teplinsskaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teplinsskaya&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
@@ -57,7 +67,7 @@
 
 <div align="center">
 
-### 📫 Contact
+### Contact
 
 <a href="https://t.me/teplinsskaya">
   <img src="https://img.icons8.com/?size=100&id=LTvptsXhcJki&format=png&color=000000" alt="Telegram" width="50" height="50"/>
