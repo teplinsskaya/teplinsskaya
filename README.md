@@ -1,12 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/teplinsskaya/teplinsskaya/main/banner.png" alt="Banner" width="100%">
 </div>
-
-#<div align="center">
   
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Saint-Petersburg)](https://git.io/typing-svg)
-  
-#</div>
+</div>
 
 ---
 
